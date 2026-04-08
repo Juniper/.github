@@ -1,10 +1,6 @@
-# Juniper Networks GitHub Organization
+# HPE/Juniper Networks GitHub Organization
 
-Welcome to the Juniper GitHub organization.
-
-## Guidelines
-- Follow internal security and compliance policies
-- Use pull requests and standard review workflows
+Welcome to the HPE/Juniper GitHub organization.
 
 ## Support
 Juniper / HPE employees:  
